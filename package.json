@@ -1,0 +1,10 @@
+{
+  "name": "happy-bday",
+  "version": "0.0.1",
+  "dependencies": {
+    "roo": "0.0.3"
+  },
+  "scripts": {
+    "start": "make server"
+  }
+}
