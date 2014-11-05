@@ -1,6 +1,8 @@
 {
   "name": "happy-bday",
   "version": "0.0.1",
+  "private": true,
+  "description": "michael's 19th birthday card",
   "dependencies": {
     "roo": "^0.0.4"
   },
