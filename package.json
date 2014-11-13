@@ -4,6 +4,7 @@
   "private": true,
   "description": "michael's 19th birthday card",
   "dependencies": {
+    "duo-bundle": "0.x",
     "roo": "0.x"
   },
   "scripts": {
