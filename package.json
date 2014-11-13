@@ -4,10 +4,10 @@
   "private": true,
   "description": "michael's 19th birthday card",
   "dependencies": {
-    "roo": "^0.0.4"
+    "roo": "0.x"
   },
   "scripts": {
-    "start": "make server"
+    "start": "make production"
   },
   "engines": {
     "node": "0.11.x"
