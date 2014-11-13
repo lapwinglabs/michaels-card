@@ -2,6 +2,20 @@
 
 This repo should serve as boilerplate for single page apps.
 
+## Running locally
+
+**Development:**
+
+```bash
+make
+```
+
+**Production**:
+
+```bash
+make production
+```
+
 ## On Push to Dokku
 
 Dokku runs the following actions inside the Docker container:
