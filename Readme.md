@@ -1,6 +1,6 @@
-# Bluu Website
+# [...title...]
 
-Website for Bluu
+Website for [...tilte...]
 
 ## Running locally
 

@@ -1,8 +1,8 @@
 {
-  "name": "bluu-website",
+  "name": "[...title...]",
   "version": "0.0.1",
   "private": true,
-  "description": "Brought to you by Lapwing Labs, Bluu is an addicting, quick-thinking color game that will test your mental endurance and challenge your reflexes",
+  "description": "description",
   "dependencies": {
     "duo-bundle": "0.x",
     "roo": "0.x"
