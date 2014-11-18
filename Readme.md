@@ -6,6 +6,8 @@ Website for [...tilte...]
 
 **Development:**
 
+Update title in package.json
+
 ```bash
 make
 ```
