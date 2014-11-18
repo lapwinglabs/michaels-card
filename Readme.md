@@ -1,6 +1,6 @@
-# Michael's Card
+# Bluu Website
 
-This repo should serve as boilerplate for single page apps.
+Website for Bluu
 
 ## Running locally
 

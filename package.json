@@ -1,8 +1,8 @@
 {
-  "name": "michaels-card",
+  "name": "bluu-website",
   "version": "0.0.1",
   "private": true,
-  "description": "michael's 19th birthday card",
+  "description": "Brought to you by Lapwing Labs, Bluu is an addicting, quick-thinking color game that will test your mental endurance and challenge your reflexes",
   "dependencies": {
     "duo-bundle": "0.x",
     "roo": "0.x"
